@@ -29,13 +29,6 @@ I am a Bachelor of Computer Applications (BCA) student at **Chinmaya Vishwa Vidy
 
 ---
 
-### 📈 GitHub Analytics
-
-![Nafiya's Stats](https://github-readme-stats.vercel.app/api?username=nafiya-shirin&show_icons=true&theme=flat-white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafiya-shirin&layout=compact&theme=flat-white)
-
----
-
 ### 🔭 Current Focus
 
 * 📊 **Data Visualization:** Learning to tell stories through data using Python libraries.
