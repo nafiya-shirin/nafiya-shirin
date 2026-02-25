@@ -20,8 +20,7 @@ I am a Bachelor of Computer Applications (BCA) student at **Chinmaya Vishwa Vidy
 ### 🎓 Academic Profile
 
 * **University:** Chinmaya Vishwa Vidyapeeth (Deemed to be University), Ernakulam
-* **Program:** Bachelor of Computer Applications (BCA)
-* **Academic Standing:** Cumulative **CGPA of 8.22**
+* **Program:** Bachelor of Computer Applications (BCA) AI and Data Science
 * **Core Analytics Coursework:** * Data Manipulation with Python & R
     * Statistical Computing
     * Systems Analysis and Design
